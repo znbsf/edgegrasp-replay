@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "claim": "display_transform_and_visibility_roundtrip_only",
+  "source_sha256": "05e98ee51132bd99356026ba39943361b83cad21a6144f505d807be91ea67e15",
+  "output_frames": 495,
+  "checked_poses": 4950,
+  "max_position_error_m": 0.0,
+  "physics_recomputed": false,
+  "hardware_verified": false,
+  "blender_version": "4.5.13 LTS"
+}

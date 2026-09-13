@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "edgegrasp-replay"
+version = "0.1.0"
+description = "Turn recorded robot experiments into editable Blender replays"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+edgegrasp-replay = "edgegrasp_replay.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+edgegrasp_replay = ["blender_scene.py", "assets/*"]
