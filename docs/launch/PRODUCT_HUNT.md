@@ -52,8 +52,9 @@ eligibility for a standalone product derived from older research, residency
 requirements and final entry terms remain unverified behind the entry flow.
 The public countdown is not treated as an authoritative closing signal.
 
-Prepared with GPT-6 Astra in the development workflow. This statement is distinct
-from a live call to the optional in-product planner, which remains unverified.
+Prepared for the Astra challenge. Confirm the development session's model evidence
+before making a built-with-Astra eligibility claim. A live call to the optional
+in-product planner remains unverified.
 Do not replace the planner's manual demonstration with a mocked “live AI” clip.
 
 ## Remaining actions
@@ -70,3 +71,10 @@ Do not replace the planner's manual demonstration with a mocked “live AI” cl
 
 Product Hunt is a product discovery and launch community, not an application
 hosting service. A normal launch and admission to this challenge are separate.
+
+## Published product assets
+
+Public demo: https://znbsf.github.io/edgegrasp-replay/
+Source: https://github.com/znbsf/edgegrasp-replay
+Download: https://github.com/znbsf/edgegrasp-replay/releases/tag/v0.1.0
+These are product artifacts; they are not a Product Hunt listing or contest entry.

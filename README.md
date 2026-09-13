@@ -2,6 +2,9 @@
 
 Turn recorded robot experiments into editable Blender replays.
 
+[Try the public demo](https://znbsf.github.io/edgegrasp-replay/) ·
+[Download the local toolkit](https://github.com/znbsf/edgegrasp-replay/releases/tag/v0.1.0)
+
 **Early preview, 0.1.0.** Inspect three real simulation recordings in a browser,
 jump to recorded events, choose cuts and cameras, and export an editable Blender
 scene. The optional GPT-6 Astra planner drafts shot lists from event metadata.

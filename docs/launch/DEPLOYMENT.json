@@ -1,0 +1,16 @@
+{
+  "checked_on": "2026-09-13",
+  "repository": "https://github.com/znbsf/edgegrasp-replay",
+  "source_commit": "c05208e",
+  "release": "https://github.com/znbsf/edgegrasp-replay/releases/tag/v0.1.0",
+  "toolkit_sha256": "14f9366db7c46d097a882dd29c16513f2a5ab3bd114aa3e63c0a21b85568caa1",
+  "site": "https://znbsf.github.io/edgegrasp-replay/",
+  "pages_commit": "9d8aa261372363a9653d8dc076e2b14f99207bab",
+  "pages_status": "built",
+  "https_enforced": true,
+  "public_http_200_and_release_hash_match": ["index.html", "app.js", "samples/release-cycle.json", "assets/demo-film.webm"],
+  "packaged_cli_validate_and_export": "passed from a fresh extracted directory",
+  "public_browser_check": "incomplete: browser tool connection timed out; identical static package tested locally",
+  "live_astra_api_verified": false,
+  "product_hunt_submitted": false
+}
