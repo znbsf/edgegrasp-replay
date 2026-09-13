@@ -52,9 +52,11 @@ eligibility for a standalone product derived from older research, residency
 requirements and final entry terms remain unverified behind the entry flow.
 The public countdown is not treated as an authoritative closing signal.
 
-Prepared for the Astra challenge. Confirm the development session's model evidence
-before making a built-with-Astra eligibility claim. A live call to the optional
-in-product planner remains unverified.
+The local development-session metadata was checked: its 2026-09-13 turn contexts
+identify `gpt-6-astra`. This supports an Astra-assisted development claim. A live
+call to the optional in-product planner remains unverified. The two claims are
+separate, and the contest's acceptance of this development workflow still needs
+to be checked against its authenticated entry terms.
 Do not replace the planner's manual demonstration with a mocked “live AI” clip.
 
 ## Remaining actions

@@ -12,5 +12,7 @@
   "packaged_cli_validate_and_export": "passed from a fresh extracted directory",
   "public_browser_check": "incomplete: browser tool connection timed out; identical static package tested locally",
   "live_astra_api_verified": false,
+  "development_session_model": "gpt-6-astra",
+  "development_model_evidence": "Local turn_context model fields at 2026-09-13T06:54:02.650Z and 2026-09-13T07:16:01.576Z; private session content not published",
   "product_hunt_submitted": false
 }
